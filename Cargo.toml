@@ -4,6 +4,7 @@ resolver = "2"
 members = [
     "bins/*",
     "crates/*",
+    "simtx",
 ]
 default-members = ["crates/revm"]
 
